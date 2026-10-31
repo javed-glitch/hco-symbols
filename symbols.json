@@ -10,77 +10,157 @@
   {
    "sym": "TSLA",
    "group": "Satellites",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "PLTR",
    "group": "Satellites",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "NVDA",
    "group": "Satellites",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "ZETA",
    "group": "Satellites",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "AMAT",
    "group": "Satellites",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "AMD",
    "group": "Swing-eligible",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "MU",
    "group": "Swing-eligible",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "AVGO",
    "group": "Swing-eligible",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "META",
    "group": "Swing-eligible",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm"
+   ]
   },
   {
    "sym": "GOOGL",
    "group": "Swing-eligible",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "APP",
    "group": "Watch",
-   "ccy": "$"
+   "ccy": "$",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
+  },
+  {
+   "sym": "BE",
+   "group": "Watch",
+   "ccy": "$",
+   "feeds": [
+    "cycle"
+   ]
+  },
+  {
+   "sym": "MRVL",
+   "group": "Watch",
+   "ccy": "$",
+   "feeds": [
+    "cycle"
+   ]
   },
   {
    "sym": "VUSA",
    "group": "Core",
    "ccy": "\u00a3",
-   "yahoo": "VUSA.L"
+   "yahoo": "VUSA.L",
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "ISUS",
    "group": "Core",
    "ccy": "\u00a3",
    "yahoo": "ISUS.L",
-   "pence": true
+   "pence": true,
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
   },
   {
    "sym": "ISWD",
    "group": "Core",
    "ccy": "\u00a3",
    "yahoo": "ISWD.L",
-   "pence": true
+   "pence": true,
+   "feeds": [
+    "pm",
+    "cycle"
+   ]
+  },
+  {
+   "sym": "EQQQ",
+   "group": "Core",
+   "ccy": "\u00a3",
+   "pence": true,
+   "feeds": [
+    "cycle"
+   ]
   }
  ]
 }
