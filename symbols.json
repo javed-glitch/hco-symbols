@@ -129,7 +129,8 @@
    "feeds": [
     "pm",
     "cycle"
-   ]
+   ],
+   "etf": true
   },
   {
    "sym": "ISUS",
@@ -140,7 +141,8 @@
    "feeds": [
     "pm",
     "cycle"
-   ]
+   ],
+   "etf": true
   },
   {
    "sym": "ISWD",
@@ -151,7 +153,8 @@
    "feeds": [
     "pm",
     "cycle"
-   ]
+   ],
+   "etf": true
   },
   {
    "sym": "EQQQ",
@@ -160,7 +163,9 @@
    "pence": true,
    "feeds": [
     "cycle"
-   ]
+   ],
+   "etf": true,
+   "yahoo": "EQQQ.L"
   }
  ]
 }
