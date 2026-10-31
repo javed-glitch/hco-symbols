@@ -1,0 +1,92 @@
+{
+ "updated": "2026-10-31",
+ "groups": [
+  "Satellites",
+  "Swing-eligible",
+  "Watch",
+  "Core"
+ ],
+ "symbols": [
+  {
+   "sym": "TSLA",
+   "group": "Satellites",
+   "ccy": "$"
+  },
+  {
+   "sym": "PLTR",
+   "group": "Satellites",
+   "ccy": "$"
+  },
+  {
+   "sym": "NVDA",
+   "group": "Satellites",
+   "ccy": "$"
+  },
+  {
+   "sym": "ZETA",
+   "group": "Satellites",
+   "ccy": "$"
+  },
+  {
+   "sym": "AMAT",
+   "group": "Satellites",
+   "ccy": "$"
+  },
+  {
+   "sym": "AMD",
+   "group": "Swing-eligible",
+   "ccy": "$"
+  },
+  {
+   "sym": "MU",
+   "group": "Swing-eligible",
+   "ccy": "$"
+  },
+  {
+   "sym": "AVGO",
+   "group": "Swing-eligible",
+   "ccy": "$"
+  },
+  {
+   "sym": "META",
+   "group": "Swing-eligible",
+   "ccy": "$"
+  },
+  {
+   "sym": "GOOGL",
+   "group": "Swing-eligible",
+   "ccy": "$"
+  },
+  {
+   "sym": "APP",
+   "group": "Watch",
+   "ccy": "$"
+  },
+  {
+   "sym": "VUSA",
+   "group": "Core",
+   "ccy": "\u00a3",
+   "yahoo": "VUSA.L"
+  },
+  {
+   "sym": "ISDU",
+   "group": "Core",
+   "ccy": "$",
+   "yahoo": "ISDU.L"
+  },
+  {
+   "sym": "ISUS",
+   "group": "Core",
+   "ccy": "\u00a3",
+   "yahoo": "ISUS.L",
+   "pence": true
+  },
+  {
+   "sym": "ISWD",
+   "group": "Core",
+   "ccy": "\u00a3",
+   "yahoo": "ISWD.L",
+   "pence": true
+  }
+ ]
+}
