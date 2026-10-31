@@ -14,7 +14,8 @@
    "feeds": [
     "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ]
   },
   {
@@ -24,7 +25,8 @@
    "feeds": [
     "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ]
   },
   {
@@ -34,7 +36,8 @@
    "feeds": [
     "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ]
   },
   {
@@ -44,7 +47,8 @@
    "feeds": [
     "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ]
   },
   {
@@ -54,7 +58,8 @@
    "feeds": [
     "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ]
   },
   {
@@ -84,7 +89,8 @@
    "feeds": [
     "pm",
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ]
   },
   {
