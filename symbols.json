@@ -69,12 +69,6 @@
    "yahoo": "VUSA.L"
   },
   {
-   "sym": "ISDU",
-   "group": "Core",
-   "ccy": "$",
-   "yahoo": "ISDU.L"
-  },
-  {
    "sym": "ISUS",
    "group": "Core",
    "ccy": "\u00a3",
