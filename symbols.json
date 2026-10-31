@@ -12,7 +12,6 @@
    "group": "Satellites",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options",
     "intraday"
@@ -23,7 +22,6 @@
    "group": "Satellites",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options",
     "intraday"
@@ -34,7 +32,6 @@
    "group": "Satellites",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options",
     "intraday"
@@ -45,7 +42,6 @@
    "group": "Satellites",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options",
     "intraday"
@@ -56,7 +52,6 @@
    "group": "Satellites",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options",
     "intraday"
@@ -67,7 +62,6 @@
    "group": "Swing-eligible",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options"
    ]
@@ -77,7 +71,6 @@
    "group": "Swing-eligible",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options"
    ]
@@ -87,18 +80,9 @@
    "group": "Swing-eligible",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options",
     "intraday"
-   ]
-  },
-  {
-   "sym": "META",
-   "group": "Swing-eligible",
-   "ccy": "$",
-   "feeds": [
-    "pm"
    ]
   },
   {
@@ -106,7 +90,6 @@
    "group": "Swing-eligible",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle"
    ]
   },
@@ -115,7 +98,6 @@
    "group": "Watch",
    "ccy": "$",
    "feeds": [
-    "pm",
     "cycle",
     "options"
    ]
@@ -142,7 +124,6 @@
    "ccy": "\u00a3",
    "yahoo": "VUSA.L",
    "feeds": [
-    "pm",
     "cycle"
    ],
    "etf": true
@@ -154,7 +135,6 @@
    "yahoo": "ISUS.L",
    "pence": true,
    "feeds": [
-    "pm",
     "cycle"
    ],
    "etf": true
@@ -166,7 +146,6 @@
    "yahoo": "ISWD.L",
    "pence": true,
    "feeds": [
-    "pm",
     "cycle"
    ],
    "etf": true
