@@ -90,7 +90,8 @@
    "group": "Swing-eligible",
    "ccy": "$",
    "feeds": [
-    "cycle"
+    "cycle",
+    "intraday"
    ]
   },
   {
@@ -99,7 +100,8 @@
    "ccy": "$",
    "feeds": [
     "cycle",
-    "options"
+    "options",
+    "intraday"
    ]
   },
   {
@@ -107,7 +109,8 @@
    "group": "Watch",
    "ccy": "$",
    "feeds": [
-    "cycle"
+    "cycle",
+    "intraday"
    ]
   },
   {
