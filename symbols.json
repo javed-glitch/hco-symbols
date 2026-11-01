@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "groups": [
   "Satellites",
   "Swing-eligible",
@@ -160,6 +160,16 @@
    ],
    "etf": true,
    "yahoo": "EQQQ.L"
+  },
+  {
+   "sym": "SMGB",
+   "group": "Core",
+   "ccy": "\u00a3",
+   "yahoo": "SMGB.L",
+   "feeds": [
+    "cycle"
+   ],
+   "etf": true
   }
  ]
 }
