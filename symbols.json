@@ -62,8 +62,7 @@
    "group": "Swing-eligible",
    "ccy": "$",
    "feeds": [
-    "cycle",
-    "options"
+    "cycle"
    ]
   },
   {
@@ -71,8 +70,7 @@
    "group": "Swing-eligible",
    "ccy": "$",
    "feeds": [
-    "cycle",
-    "options"
+    "cycle"
    ]
   },
   {
@@ -91,6 +89,7 @@
    "ccy": "$",
    "feeds": [
     "cycle",
+    "options",
     "intraday"
    ]
   },
@@ -110,6 +109,7 @@
    "ccy": "$",
    "feeds": [
     "cycle",
+    "options",
     "intraday"
    ]
   },
